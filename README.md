@@ -5,7 +5,7 @@
   * Gráficos 2D
 
 ## Apunte Clase Teórica JAVA 12
-[JAVA-Clase4](https://profmatiasgarcia.com.ar/uploads/tutoriales/ClaseTeoricaJAVA12.pdf)
+[JAVA-Clase12](https://profmatiasgarcia.com.ar/uploads/tutoriales/ClaseTeoricaJAVA12.pdf)
 
 ## Licencia
 [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)
